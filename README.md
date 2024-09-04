@@ -64,5 +64,7 @@ The dashboard provides key insights into:
 - **Optimize Delivery Times**: Focus on reducing the delivery times for Standard Class.
 - **Focus on Key Categories**: Strengthen sales in top-performing categories while improving the performance of weaker categories.
 
+![Dashboard](https://github.com/user-attachments/assets/9f60874c-c28e-4c5f-9c0a-0bd016e914e2)
+
 ## Conclusion
 This project provides valuable insights into the sales performance of the superstore, highlighting areas of strength and opportunities for improvement. The dashboard is a powerful tool for strategic decision-making and operational efficiency.
