@@ -20,14 +20,9 @@ The superstore is a large retail business offering a diverse range of products i
 - **DAX**: For creating calculated measures and columns.
 
 ## Data Understanding
-The dataset contains sales transactions with the following columns:
-- **Order ID**: Unique identifier for each order.
-- **Order Date**: Date when the order was placed.
-- **Ship Date**: Date when the order was shipped.
-- **Ship Mode**: Priority mode of shipping.
-- **Customer ID**: Unique identifier for each customer.
-- **Product Details**: Includes Category, Sub-Category, and Product Name.
-- **Sales Details**: Quantity, Price, Discount, etc.
+- **Source file type**: Microsoft Excel Macro-Enabled Worksheet (.xlsm)
+- **Columns provided** :  Order ID, Order Date, Ship Date, Ship Mode, Address, Region, Customer ID, Customer Name, Segment, Product ID, Category, Sub-Category, Product Name, Quantity, Discount, Buy Price, Price Per Each.
+- **Data Dimensions**: 9994  rows and 17 columns. 
 
 ## Data Dictionary
 Key fields used in the analysis:
