@@ -25,14 +25,20 @@ The superstore is a large retail business offering a diverse range of products i
 - **Data Dimensions**: 9994  rows and 17 columns. 
 
 ## Data Dictionary
-Key fields used in the analysis:
-- **Order ID**: Unique order identifier.
-- **Order Date**: The date the order was placed.
-- **Ship Date**: The date the order was shipped.
-- **Ship Mode**: The mode of shipping.
-- **Customer ID**: Unique identifier for each customer.
-- **Product ID**: Unique identifier for each product.
-- **Sales**: Calculated as `[Quantity] * ([Price Per Each] * (1-[Discount]))`.
+- **Order ID**
+- **Order Date**
+- **Ship Date**
+- **Ship Mode**
+- **Customer ID**
+- **Customer Name**
+- **Segment**
+- **Address**
+- **Region**
+- **Product ID**
+- **Category**
+- **Sub-Category**
+- **Product Name**
+- **Quantity**
 
 ## Data Preparation and Transformation
 - **Data Cleaning**: Removed null values, adjusted data types, and standardized values.
