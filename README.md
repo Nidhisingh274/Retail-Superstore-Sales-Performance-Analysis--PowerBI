@@ -41,9 +41,12 @@ The superstore is a large retail business offering a diverse range of products i
 - **Sub-Category**
 - **Product Name**
 - **Quantity**
+- **Discount**
+- **Buy Price**
+- **Price Per Each**
 
 ## Data Preparation and Transformation
-- **Data Cleaning**: Removed null values, adjusted data types, and standardized values.
+- **Data Cleaning**: Removed null values, Removed blanks, adjusted data types, and standardized values.
 - **Data Modeling**: Created a star schema with one fact table (Orders) and three dimension tables (Customer, Product, and Order Details).
 - **DAX Calculations**: Created custom columns and measures including `Total Sales`, `Discounted Sales`, `Cart Value`, `Sales YTD`, and `Yearly Growth`.
 
